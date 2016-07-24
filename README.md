@@ -1,2 +1,2 @@
 # hello-world
-Just try it
+Just try a commit
